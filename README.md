@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ertanuzunoglu
-- 👀 I’m interested in JavaScript, React 
-- 🌱 I’m currently learning how to be a frontend developer
-- 📫 How to reach me ertanuzunogl@gmail.com
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node JS
+- 📫 How to reach me ertanuzunogl@gmail.com, linkedin.com/ertanuzunoglu
 
 <!---
 ertanuzunoglu/ertanuzunoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
