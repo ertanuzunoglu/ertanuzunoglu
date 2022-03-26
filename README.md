@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ertanuzunoglu
+- 👋 Hi, I’m Ertan
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node JS
 - 📫 How to reach me ertanuzunogl@gmail.com, linkedin.com/ertanuzunoglu
 
